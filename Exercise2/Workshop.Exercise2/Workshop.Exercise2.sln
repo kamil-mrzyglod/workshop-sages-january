@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop.WebJobs", "Workshop.WebJobs\Workshop.WebJobs.csproj", "{7AEF3746-3015-42C0-9901-AFA6D3D9DDE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop.Functions", "Workshop.Functions\Workshop.Functions.csproj", "{F351CDFF-B65A-48E2-9BA1-4C1BA3E95C28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workshop.Functions", "Workshop.Functions\Workshop.Functions.csproj", "{F351CDFF-B65A-48E2-9BA1-4C1BA3E95C28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
